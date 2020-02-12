@@ -1,0 +1,77 @@
+/* general */
+
+.center {
+  margin: 20px auto;
+  width: 400px;
+}
+
+body {
+  background: url("../img/background.jpg") no-repeat;
+  background-size: cover;
+}
+
+/* header */
+.logo {
+  width: 120px;
+  vertical-align: middle;
+}
+
+.title {
+  display: inline;
+  color: #fff;
+  font-weight: normal;
+}
+
+/* sezione search */
+
+.circle {
+  display: inline-block;
+  padding: 9px;
+  background-color: #faab23;
+  border-radius: 100%;
+}
+
+.subtitle {
+  color: white;
+  margin: 4px 0 0;
+  font-weight: normal;
+}
+
+#unread {
+  margin-top: 7px;
+}
+
+/* sezione mail */
+
+.inline {
+  display: inline;
+}
+
+.grey {
+  color: #7c7c7c
+}
+
+.item-mail {
+  border: solid 1px black;
+  background-color: #d9d9d9;
+  padding: 2px;
+}
+
+#read {
+  background-color: #fff;
+}
+
+/* footer */
+
+footer {
+  text-align: center;
+  color: #fff;
+}
+
+footer p {
+  margin: 8px 0 0;
+}
+
+.italic {
+  font-style: italic;
+}
