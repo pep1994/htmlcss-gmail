@@ -1,0 +1,54 @@
+/* general */
+
+* {
+  box-sizing: border-box;
+}
+
+section, header, footer {
+  height: 150px;
+  border: solid 2px black;
+  margin: 20px auto;
+  width: 700px;
+}
+
+hr {
+  width: 700px;
+  border: solid 1px #828282;
+}
+
+
+/* header */
+header {
+  background-color: darkred;
+}
+
+
+/* sezione search */
+
+#search {
+  background-color: darkgreen;
+}
+
+#input, #unread {
+  border: solid 2px black;
+  height: 50%;
+}
+
+
+/* sezione mail */
+
+#mail {
+  background-color: blue;
+}
+
+.item-mail {
+  border: solid 2px black;
+  height: 25%;
+}
+
+
+/* footer */
+
+footer {
+  background-color: darkorange;
+}
