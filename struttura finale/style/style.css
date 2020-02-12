@@ -31,6 +31,10 @@ body {
   border-radius: 100%;
 }
 
+.circle:hover {
+  background-color: #f0d800;
+}
+
 .subtitle {
   color: white;
   margin: 4px 0 0;
@@ -39,6 +43,10 @@ body {
 
 #unread {
   margin-top: 7px;
+}
+
+input[type="submit"]:hover {
+  transform: scale(1.2);
 }
 
 /* sezione mail */
@@ -60,6 +68,7 @@ body {
 #read {
   background-color: #fff;
 }
+
 
 /* footer */
 
